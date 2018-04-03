@@ -1,0 +1,857 @@
+WETELMG     5540   QUAD4                                                +
++            569     797     796     570
+WETELMG     5541   QUAD4                                                +
++            797     955     954     796
+WETELMG     5542   QUAD4                                                +
++           1264    1176    1175    1265
+WETELMG     5543   QUAD4                                                +
++           1176    1083    1082    1175
+WETELMG     5544   QUAD4                                                +
++           1083     954     955    1082
+WETELMG     5545   QUAD4                                                +
++           1573    1485    1484    1572
+WETELMG     5546   QUAD4                                                +
++           1485    1392    1391    1484
+WETELMG     5547   QUAD4                                                +
++           1392    1264    1265    1391
+WETELMG     5548   QUAD4                                                +
++           1963    1858    1857    1964
+WETELMG     5549   QUAD4                                                +
++           1858    1753    1735    1857
+WETELMG     5550   QUAD4                                                +
++           1753    1573    1572    1735
+WETELMG     5551   QUAD4                                                +
++           2358    2263    2245    2357
+WETELMG     5552   QUAD4                                                +
++           2263    2148    2130    2245
+WETELMG     5553   QUAD4                                                +
++           2148    1963    1964    2130
+WETELMG     5554   QUAD4                                                +
++            570     796     805     585
+WETELMG     5555   QUAD4                                                +
++            796     954     963     805
+WETELMG     5556   QUAD4                                                +
++           1273    1177    1176    1264
+WETELMG     5557   QUAD4                                                +
++           1177    1084    1083    1176
+WETELMG     5558   QUAD4                                                +
++           1084     963     954    1083
+WETELMG     5559   QUAD4                                                +
++           1580    1486    1485    1573
+WETELMG     5560   QUAD4                                                +
++           1486    1393    1392    1485
+WETELMG     5561   QUAD4                                                +
++           1393    1273    1264    1392
+WETELMG     5562   QUAD4                                                +
++           1974    1859    1858    1963
+WETELMG     5563   QUAD4                                                +
++           1859    1754    1753    1858
+WETELMG     5564   QUAD4                                                +
++           1754    1580    1573    1753
+WETELMG     5565   QUAD4                                                +
++           2366    2264    2263    2358
+WETELMG     5566   QUAD4                                                +
++           2264    2149    2148    2263
+WETELMG     5567   QUAD4                                                +
++           2149    1974    1963    2148
+WETELMG     5568   QUAD4                                                +
++            585     805     843     623
+WETELMG     5569   QUAD4                                                +
++            623     843     844     622
+WETELMG     5570   QUAD4                                                +
++            622     844     804     584
+WETELMG     5571   QUAD4                                                +
++            805     963     990     843
+WETELMG     5572   QUAD4                                                +
++            843     990     991     844
+WETELMG     5573   QUAD4                                                +
++            844     991     962     804
+WETELMG     5574   QUAD4                                                +
++           1297    1208    1177    1273
+WETELMG     5575   QUAD4                                                +
++           1208    1115    1084    1177
+WETELMG     5576   QUAD4                                                +
++           1115     990     963    1084
+WETELMG     5577   QUAD4                                                +
++           1298    1209    1208    1297
+WETELMG     5578   QUAD4                                                +
++           1209    1116    1115    1208
+WETELMG     5579   QUAD4                                                +
++           1116     991     990    1115
+WETELMG     5580   QUAD4                                                +
++           1271    1178    1209    1298
+WETELMG     5581   QUAD4                                                +
++           1178    1085    1116    1209
+WETELMG     5582   QUAD4                                                +
++           1085     962     991    1116
+WETELMG     5583   QUAD4                                                +
++           1609    1517    1486    1580
+WETELMG     5584   QUAD4                                                +
++           1517    1424    1393    1486
+WETELMG     5585   QUAD4                                                +
++           1424    1297    1273    1393
+WETELMG     5586   QUAD4                                                +
++           1610    1518    1517    1609
+WETELMG     5587   QUAD4                                                +
++           1518    1425    1424    1517
+WETELMG     5588   QUAD4                                                +
++           1425    1298    1297    1424
+WETELMG     5589   QUAD4                                                +
++           1579    1487    1518    1610
+WETELMG     5590   QUAD4                                                +
++           1487    1394    1425    1518
+WETELMG     5591   QUAD4                                                +
++           1394    1271    1298    1425
+WETELMG     5592   QUAD4                                                +
++           2005    1896    1859    1974
+WETELMG     5593   QUAD4                                                +
++           1896    1781    1754    1859
+WETELMG     5594   QUAD4                                                +
++           1781    1609    1580    1754
+WETELMG     5595   QUAD4                                                +
++           2006    1897    1896    2005
+WETELMG     5596   QUAD4                                                +
++           1897    1782    1781    1896
+WETELMG     5597   QUAD4                                                +
++           1782    1610    1609    1781
+WETELMG     5598   QUAD4                                                +
++           1972    1860    1897    2006
+WETELMG     5599   QUAD4                                                +
++           1860    1755    1782    1897
+WETELMG     5600   QUAD4                                                +
++           1755    1579    1610    1782
+WETELMG     5601   QUAD4                                                +
++           2400    2291    2264    2366
+WETELMG     5602   QUAD4                                                +
++           2291    2176    2149    2264
+WETELMG     5603   QUAD4                                                +
++           2176    2005    1974    2149
+WETELMG     5604   QUAD4                                                +
++           2401    2292    2291    2400
+WETELMG     5605   QUAD4                                                +
++           2292    2177    2176    2291
+WETELMG     5606   QUAD4                                                +
++           2177    2006    2005    2176
+WETELMG     5607   QUAD4                                                +
++           2365    2265    2292    2401
+WETELMG     5608   QUAD4                                                +
++           2265    2150    2177    2292
+WETELMG     5609   QUAD4                                                +
++           2150    1972    2006    2177
+WETELMG     5610   QUAD4                                                +
++            584     804     845     625
+WETELMG     5611   QUAD4                                                +
++            625     845     846     624
+WETELMG     5612   QUAD4                                                +
++            624     846     799     579
+WETELMG     5613   QUAD4                                                +
++            804     962     992     845
+WETELMG     5614   QUAD4                                                +
++            845     992     993     846
+WETELMG     5615   QUAD4                                                +
++            846     993     957     799
+WETELMG     5616   QUAD4                                                +
++           1299    1210    1178    1271
+WETELMG     5617   QUAD4                                                +
++           1210    1117    1085    1178
+WETELMG     5618   QUAD4                                                +
++           1117     992     962    1085
+WETELMG     5619   QUAD4                                                +
++           1300    1211    1210    1299
+WETELMG     5620   QUAD4                                                +
++           1211    1118    1117    1210
+WETELMG     5621   QUAD4                                                +
++           1118     993     992    1117
+WETELMG     5622   QUAD4                                                +
++           1267    1179    1211    1300
+WETELMG     5623   QUAD4                                                +
++           1179    1086    1118    1211
+WETELMG     5624   QUAD4                                                +
++           1086     957     993    1118
+WETELMG     5625   QUAD4                                                +
++           1611    1519    1487    1579
+WETELMG     5626   QUAD4                                                +
++           1519    1426    1394    1487
+WETELMG     5627   QUAD4                                                +
++           1426    1299    1271    1394
+WETELMG     5628   QUAD4                                                +
++           1612    1520    1519    1611
+WETELMG     5629   QUAD4                                                +
++           1520    1427    1426    1519
+WETELMG     5630   QUAD4                                                +
++           1427    1300    1299    1426
+WETELMG     5631   QUAD4                                                +
++           1575    1488    1520    1612
+WETELMG     5632   QUAD4                                                +
++           1488    1395    1427    1520
+WETELMG     5633   QUAD4                                                +
++           1395    1267    1300    1427
+WETELMG     5634   QUAD4                                                +
++           2007    1898    1860    1972
+WETELMG     5635   QUAD4                                                +
++           1898    1783    1755    1860
+WETELMG     5636   QUAD4                                                +
++           1783    1611    1579    1755
+WETELMG     5637   QUAD4                                                +
++           2008    1899    1898    2007
+WETELMG     5638   QUAD4                                                +
++           1899    1784    1783    1898
+WETELMG     5639   QUAD4                                                +
++           1784    1612    1611    1783
+WETELMG     5640   QUAD4                                                +
++           1968    1861    1899    2008
+WETELMG     5641   QUAD4                                                +
++           1861    1756    1784    1899
+WETELMG     5642   QUAD4                                                +
++           1756    1575    1612    1784
+WETELMG     5643   QUAD4                                                +
++           2402    2293    2265    2365
+WETELMG     5644   QUAD4                                                +
++           2293    2178    2150    2265
+WETELMG     5645   QUAD4                                                +
++           2178    2007    1972    2150
+WETELMG     5646   QUAD4                                                +
++           2403    2294    2293    2402
+WETELMG     5647   QUAD4                                                +
++           2294    2179    2178    2293
+WETELMG     5648   QUAD4                                                +
++           2179    2008    2007    2178
+WETELMG     5649   QUAD4                                                +
++           2361    2266    2294    2403
+WETELMG     5650   QUAD4                                                +
++           2266    2151    2179    2294
+WETELMG     5651   QUAD4                                                +
++           2151    1968    2008    2179
+WETELMG     5652   QUAD4                                                +
++            579     799     847     627
+WETELMG     5653   QUAD4                                                +
++            627     847     848     626
+WETELMG     5654   QUAD4                                                +
++            626     848     806     586
+WETELMG     5655   QUAD4                                                +
++            799     957     994     847
+WETELMG     5656   QUAD4                                                +
++            847     994     995     848
+WETELMG     5657   QUAD4                                                +
++            848     995     964     806
+WETELMG     5658   QUAD4                                                +
++           1301    1212    1179    1267
+WETELMG     5659   QUAD4                                                +
++           1212    1119    1086    1179
+WETELMG     5660   QUAD4                                                +
++           1119     994     957    1086
+WETELMG     5661   QUAD4                                                +
++           1302    1213    1212    1301
+WETELMG     5662   QUAD4                                                +
++           1213    1120    1119    1212
+WETELMG     5663   QUAD4                                                +
++           1120     995     994    1119
+WETELMG     5664   QUAD4                                                +
++           1274    1180    1213    1302
+WETELMG     5665   QUAD4                                                +
++           1180    1087    1120    1213
+WETELMG     5666   QUAD4                                                +
++           1087     964     995    1120
+WETELMG     5667   QUAD4                                                +
++           1613    1521    1488    1575
+WETELMG     5668   QUAD4                                                +
++           1521    1428    1395    1488
+WETELMG     5669   QUAD4                                                +
++           1428    1301    1267    1395
+WETELMG     5670   QUAD4                                                +
++           1614    1522    1521    1613
+WETELMG     5671   QUAD4                                                +
++           1522    1429    1428    1521
+WETELMG     5672   QUAD4                                                +
++           1429    1302    1301    1428
+WETELMG     5673   QUAD4                                                +
++           1581    1489    1522    1614
+WETELMG     5674   QUAD4                                                +
++           1489    1396    1429    1522
+WETELMG     5675   QUAD4                                                +
++           1396    1274    1302    1429
+WETELMG     5676   QUAD4                                                +
++           2009    1900    1861    1968
+WETELMG     5677   QUAD4                                                +
++           1900    1785    1756    1861
+WETELMG     5678   QUAD4                                                +
++           1785    1613    1575    1756
+WETELMG     5679   QUAD4                                                +
++           2010    1901    1900    2009
+WETELMG     5680   QUAD4                                                +
++           1901    1786    1785    1900
+WETELMG     5681   QUAD4                                                +
++           1786    1614    1613    1785
+WETELMG     5682   QUAD4                                                +
++           1973    1862    1901    2010
+WETELMG     5683   QUAD4                                                +
++           1862    1757    1786    1901
+WETELMG     5684   QUAD4                                                +
++           1757    1581    1614    1786
+WETELMG     5685   QUAD4                                                +
++           2404    2295    2266    2361
+WETELMG     5686   QUAD4                                                +
++           2295    2180    2151    2266
+WETELMG     5687   QUAD4                                                +
++           2180    2009    1968    2151
+WETELMG     5688   QUAD4                                                +
++           2405    2296    2295    2404
+WETELMG     5689   QUAD4                                                +
++           2296    2181    2180    2295
+WETELMG     5690   QUAD4                                                +
++           2181    2010    2009    2180
+WETELMG     5691   QUAD4                                                +
++           2364    2267    2296    2405
+WETELMG     5692   QUAD4                                                +
++           2267    2152    2181    2296
+WETELMG     5693   QUAD4                                                +
++           2152    1973    2010    2181
+WETELMG     5694   QUAD4                                                +
++            586     806     849     629
+WETELMG     5695   QUAD4                                                +
++            629     849     850     628
+WETELMG     5696   QUAD4                                                +
++            628     850     803     583
+WETELMG     5697   QUAD4                                                +
++            806     964     996     849
+WETELMG     5698   QUAD4                                                +
++            849     996     997     850
+WETELMG     5699   QUAD4                                                +
++            850     997     960     803
+WETELMG     5700   QUAD4                                                +
++           1303    1214    1180    1274
+WETELMG     5701   QUAD4                                                +
++           1214    1121    1087    1180
+WETELMG     5702   QUAD4                                                +
++           1121     996     964    1087
+WETELMG     5703   QUAD4                                                +
++           1304    1215    1214    1303
+WETELMG     5704   QUAD4                                                +
++           1215    1122    1121    1214
+WETELMG     5705   QUAD4                                                +
++           1122     997     996    1121
+WETELMG     5706   QUAD4                                                +
++           1270    1181    1215    1304
+WETELMG     5707   QUAD4                                                +
++           1181    1088    1122    1215
+WETELMG     5708   QUAD4                                                +
++           1088     960     997    1122
+WETELMG     5709   QUAD4                                                +
++           1615    1523    1489    1581
+WETELMG     5710   QUAD4                                                +
++           1523    1430    1396    1489
+WETELMG     5711   QUAD4                                                +
++           1430    1303    1274    1396
+WETELMG     5712   QUAD4                                                +
++           1616    1524    1523    1615
+WETELMG     5713   QUAD4                                                +
++           1524    1431    1430    1523
+WETELMG     5714   QUAD4                                                +
++           1431    1304    1303    1430
+WETELMG     5715   QUAD4                                                +
++           1578    1490    1524    1616
+WETELMG     5716   QUAD4                                                +
++           1490    1397    1431    1524
+WETELMG     5717   QUAD4                                                +
++           1397    1270    1304    1431
+WETELMG     5718   QUAD4                                                +
++           2011    1902    1862    1973
+WETELMG     5719   QUAD4                                                +
++           1902    1787    1757    1862
+WETELMG     5720   QUAD4                                                +
++           1787    1615    1581    1757
+WETELMG     5721   QUAD4                                                +
++           2012    1903    1902    2011
+WETELMG     5722   QUAD4                                                +
++           1903    1788    1787    1902
+WETELMG     5723   QUAD4                                                +
++           1788    1616    1615    1787
+WETELMG     5724   QUAD4                                                +
++           1971    1863    1903    2012
+WETELMG     5725   QUAD4                                                +
++           1863    1758    1788    1903
+WETELMG     5726   QUAD4                                                +
++           1758    1578    1616    1788
+WETELMG     5727   QUAD4                                                +
++           2406    2297    2267    2364
+WETELMG     5728   QUAD4                                                +
++           2297    2182    2152    2267
+WETELMG     5729   QUAD4                                                +
++           2182    2011    1973    2152
+WETELMG     5730   QUAD4                                                +
++           2407    2298    2297    2406
+WETELMG     5731   QUAD4                                                +
++           2298    2183    2182    2297
+WETELMG     5732   QUAD4                                                +
++           2183    2012    2011    2182
+WETELMG     5733   QUAD4                                                +
++           2368    2268    2298    2407
+WETELMG     5734   QUAD4                                                +
++           2268    2153    2183    2298
+WETELMG     5735   QUAD4                                                +
++           2153    1971    2012    2183
+WETELMG     5736   QUAD4                                                +
++            583     803     802     581
+WETELMG     5737   QUAD4                                                +
++            803     960     959     802
+WETELMG     5738   QUAD4                                                +
++           1269    1182    1181    1270
+WETELMG     5739   QUAD4                                                +
++           1182    1089    1088    1181
+WETELMG     5740   QUAD4                                                +
++           1089     959     960    1088
+WETELMG     5741   QUAD4                                                +
++           1576    1491    1490    1578
+WETELMG     5742   QUAD4                                                +
++           1491    1398    1397    1490
+WETELMG     5743   QUAD4                                                +
++           1398    1269    1270    1397
+WETELMG     5744   QUAD4                                                +
++           1969    1864    1863    1971
+WETELMG     5745   QUAD4                                                +
++           1864    1759    1758    1863
+WETELMG     5746   QUAD4                                                +
++           1759    1576    1578    1758
+WETELMG     5747   QUAD4                                                +
++           2362    2269    2268    2368
+WETELMG     5748   QUAD4                                                +
++           2269    2154    2153    2268
+WETELMG     5749   QUAD4                                                +
++           2154    1969    1971    2153
+WETELMG     5750   QUAD4                                                +
++            581     802     800     580
+WETELMG     5751   QUAD4                                                +
++            802     959     958     800
+WETELMG     5752   QUAD4                                                +
++           1268    1183    1182    1269
+WETELMG     5753   QUAD4                                                +
++           1183    1090    1089    1182
+WETELMG     5754   QUAD4                                                +
++           1090     958     959    1089
+WETELMG     5755   QUAD4                                                +
++           1577    1492    1491    1576
+WETELMG     5756   QUAD4                                                +
++           1492    1399    1398    1491
+WETELMG     5757   QUAD4                                                +
++           1399    1268    1269    1398
+WETELMG     5758   QUAD4                                                +
++           1970    1865    1864    1969
+WETELMG     5759   QUAD4                                                +
++           1865    1760    1759    1864
+WETELMG     5760   QUAD4                                                +
++           1760    1577    1576    1759
+WETELMG     5761   QUAD4                                                +
++           2363    2270    2269    2362
+WETELMG     5762   QUAD4                                                +
++           2270    2155    2154    2269
+WETELMG     5763   QUAD4                                                +
++           2155    1970    1969    2154
+WETELMG     5764   QUAD4                                                +
++            580     800     851     631
+WETELMG     5765   QUAD4                                                +
++            631     851     852     630
+WETELMG     5766   QUAD4                                                +
++            630     852     801     582
+WETELMG     5767   QUAD4                                                +
++            800     958     998     851
+WETELMG     5768   QUAD4                                                +
++            851     998     999     852
+WETELMG     5769   QUAD4                                                +
++            852     999     961     801
+WETELMG     5770   QUAD4                                                +
++           1305    1216    1183    1268
+WETELMG     5771   QUAD4                                                +
++           1216    1123    1090    1183
+WETELMG     5772   QUAD4                                                +
++           1123     998     958    1090
+WETELMG     5773   QUAD4                                                +
++           1306    1217    1216    1305
+WETELMG     5774   QUAD4                                                +
++           1217    1124    1123    1216
+WETELMG     5775   QUAD4                                                +
++           1124     999     998    1123
+WETELMG     5776   QUAD4                                                +
++           1272    1184    1217    1306
+WETELMG     5777   QUAD4                                                +
++           1184    1091    1124    1217
+WETELMG     5778   QUAD4                                                +
++           1091     961     999    1124
+WETELMG     5779   QUAD4                                                +
++           1617    1525    1492    1577
+WETELMG     5780   QUAD4                                                +
++           1525    1432    1399    1492
+WETELMG     5781   QUAD4                                                +
++           1432    1305    1268    1399
+WETELMG     5782   QUAD4                                                +
++           1618    1526    1525    1617
+WETELMG     5783   QUAD4                                                +
++           1526    1433    1432    1525
+WETELMG     5784   QUAD4                                                +
++           1433    1306    1305    1432
+WETELMG     5785   QUAD4                                                +
++           1571    1493    1526    1618
+WETELMG     5786   QUAD4                                                +
++           1493    1400    1433    1526
+WETELMG     5787   QUAD4                                                +
++           1400    1272    1306    1433
+WETELMG     5788   QUAD4                                                +
++           2013    1904    1865    1970
+WETELMG     5789   QUAD4                                                +
++           1904    1789    1760    1865
+WETELMG     5790   QUAD4                                                +
++           1789    1617    1577    1760
+WETELMG     5791   QUAD4                                                +
++           2014    1905    1904    2013
+WETELMG     5792   QUAD4                                                +
++           1905    1790    1789    1904
+WETELMG     5793   QUAD4                                                +
++           1790    1618    1617    1789
+WETELMG     5794   QUAD4                                                +
++           1965    1866    1905    2014
+WETELMG     5795   QUAD4                                                +
++           1866    1761    1790    1905
+WETELMG     5796   QUAD4                                                +
++           1761    1571    1618    1790
+WETELMG     5797   QUAD4                                                +
++           2408    2299    2270    2363
+WETELMG     5798   QUAD4                                                +
++           2299    2184    2155    2270
+WETELMG     5799   QUAD4                                                +
++           2184    2013    1970    2155
+WETELMG     5800   QUAD4                                                +
++           2409    2300    2299    2408
+WETELMG     5801   QUAD4                                                +
++           2300    2185    2184    2299
+WETELMG     5802   QUAD4                                                +
++           2185    2014    2013    2184
+WETELMG     5803   QUAD4                                                +
++           2359    2271    2300    2409
+WETELMG     5804   QUAD4                                                +
++           2271    2156    2185    2300
+WETELMG     5805   QUAD4                                                +
++           2156    1965    2014    2185
+WETELMG     5806   QUAD4                                                +
++            575     798     853     633
+WETELMG     5807   QUAD4                                                +
++            633     853     854     632
+WETELMG     5808   QUAD4                                                +
++            632     854     797     569
+WETELMG     5809   QUAD4                                                +
++            798     956    1000     853
+WETELMG     5810   QUAD4                                                +
++            853    1000    1001     854
+WETELMG     5811   QUAD4                                                +
++            854    1001     955     797
+WETELMG     5812   QUAD4                                                +
++           1307    1218    1185    1266
+WETELMG     5813   QUAD4                                                +
++           1218    1125    1092    1185
+WETELMG     5814   QUAD4                                                +
++           1125    1000     956    1092
+WETELMG     5815   QUAD4                                                +
++           1308    1219    1218    1307
+WETELMG     5816   QUAD4                                                +
++           1219    1126    1125    1218
+WETELMG     5817   QUAD4                                                +
++           1126    1001    1000    1125
+WETELMG     5818   QUAD4                                                +
++           1265    1175    1219    1308
+WETELMG     5819   QUAD4                                                +
++           1175    1082    1126    1219
+WETELMG     5820   QUAD4                                                +
++           1082     955    1001    1126
+WETELMG     5821   QUAD4                                                +
++           1619    1527    1494    1574
+WETELMG     5822   QUAD4                                                +
++           1527    1434    1401    1494
+WETELMG     5823   QUAD4                                                +
++           1434    1307    1266    1401
+WETELMG     5824   QUAD4                                                +
++           1620    1528    1527    1619
+WETELMG     5825   QUAD4                                                +
++           1528    1435    1434    1527
+WETELMG     5826   QUAD4                                                +
++           1435    1308    1307    1434
+WETELMG     5827   QUAD4                                                +
++           1572    1484    1528    1620
+WETELMG     5828   QUAD4                                                +
++           1484    1391    1435    1528
+WETELMG     5829   QUAD4                                                +
++           1391    1265    1308    1435
+WETELMG     5830   QUAD4                                                +
++           2015    1906    1867    1967
+WETELMG     5831   QUAD4                                                +
++           1906    1791    1736    1867
+WETELMG     5832   QUAD4                                                +
++           1791    1619    1574    1736
+WETELMG     5833   QUAD4                                                +
++           2016    1907    1906    2015
+WETELMG     5834   QUAD4                                                +
++           1907    1792    1791    1906
+WETELMG     5835   QUAD4                                                +
++           1792    1620    1619    1791
+WETELMG     5836   QUAD4                                                +
++           1964    1857    1907    2016
+WETELMG     5837   QUAD4                                                +
++           1857    1735    1792    1907
+WETELMG     5838   QUAD4                                                +
++           1735    1572    1620    1792
+WETELMG     5839   QUAD4                                                +
++           2410    2301    2246    2360
+WETELMG     5840   QUAD4                                                +
++           2301    2186    2131    2246
+WETELMG     5841   QUAD4                                                +
++           2186    2015    1967    2131
+WETELMG     5842   QUAD4                                                +
++           2411    2302    2301    2410
+WETELMG     5843   QUAD4                                                +
++           2302    2187    2186    2301
+WETELMG     5844   QUAD4                                                +
++           2187    2016    2015    2186
+WETELMG     5845   QUAD4                                                +
++           2357    2245    2302    2411
+WETELMG     5846   QUAD4                                                +
++           2245    2130    2187    2302
+WETELMG     5847   QUAD4                                                +
++           2130    1964    2016    2187
+WETELMG     5848   QUAD4                                                +
++            634     856     798     575
+WETELMG     5849   QUAD4                                                +
++            856    1003     956     798
+WETELMG     5850   QUAD4                                                +
++           1266    1185    1221    1310
+WETELMG     5851   QUAD4                                                +
++           1185    1092    1128    1221
+WETELMG     5852   QUAD4                                                +
++           1092     956    1003    1128
+WETELMG     5853   QUAD4                                                +
++           1574    1494    1530    1622
+WETELMG     5854   QUAD4                                                +
++           1494    1401    1437    1530
+WETELMG     5855   QUAD4                                                +
++           1401    1266    1310    1437
+WETELMG     5856   QUAD4                                                +
++           1967    1867    1909    2018
+WETELMG     5857   QUAD4                                                +
++           1867    1736    1794    1909
+WETELMG     5858   QUAD4                                                +
++           1736    1574    1622    1794
+WETELMG     5859   QUAD4                                                +
++           2360    2246    2304    2413
+WETELMG     5860   QUAD4                                                +
++           2246    2131    2189    2304
+WETELMG     5861   QUAD4                                                +
++           2131    1967    2018    2189
+WETELMG     5862   QUAD4                                                +
++            582     801     857     637
+WETELMG     5863   QUAD4                                                +
++            801     961    1004     857
+WETELMG     5864   QUAD4                                                +
++           1311    1222    1184    1272
+WETELMG     5865   QUAD4                                                +
++           1222    1129    1091    1184
+WETELMG     5866   QUAD4                                                +
++           1129    1004     961    1091
+WETELMG     5867   QUAD4                                                +
++           1623    1531    1493    1571
+WETELMG     5868   QUAD4                                                +
++           1531    1438    1400    1493
+WETELMG     5869   QUAD4                                                +
++           1438    1311    1272    1400
+WETELMG     5870   QUAD4                                                +
++           2019    1910    1866    1965
+WETELMG     5871   QUAD4                                                +
++           1910    1795    1761    1866
+WETELMG     5872   QUAD4                                                +
++           1795    1623    1571    1761
+WETELMG     5873   QUAD4                                                +
++           2414    2305    2271    2359
+WETELMG     5874   QUAD4                                                +
++           2305    2190    2156    2271
+WETELMG     5875   QUAD4                                                +
++           2190    2019    1965    2156
+WETELMG     5876   QUAD4                                                +
++            633     700     571     575
+WETELMG     5877   QUAD4                                                +
++            632     699     700     633
+WETELMG     5878   QUAD4                                                +
++            569     570     699     632
+WETELMG     5879   QUAD4                                                +
++            700     639     572     571
+WETELMG     5880   QUAD4                                                +
++            699     638     639     700
+WETELMG     5881   QUAD4                                                +
++            570     585     638     699
+WETELMG     5882   QUAD4                                                +
++            735     641     578     652
+WETELMG     5883   QUAD4                                                +
++            736     640     641     735
+WETELMG     5884   QUAD4                                                +
++            622     584     640     736
+WETELMG     5885   QUAD4                                                +
++            737     735     652     653
+WETELMG     5886   QUAD4                                                +
++            738     736     735     737
+WETELMG     5887   QUAD4                                                +
++            623     622     736     738
+WETELMG     5888   QUAD4                                                +
++            639     737     653     572
+WETELMG     5889   QUAD4                                                +
++            638     738     737     639
+WETELMG     5890   QUAD4                                                +
++            585     623     738     638
+WETELMG     5891   QUAD4                                                +
++            739     643     573     654
+WETELMG     5892   QUAD4                                                +
++            740     642     643     739
+WETELMG     5893   QUAD4                                                +
++            624     579     642     740
+WETELMG     5894   QUAD4                                                +
++            741     739     654     655
+WETELMG     5895   QUAD4                                                +
++            742     740     739     741
+WETELMG     5896   QUAD4                                                +
++            625     624     740     742
+WETELMG     5897   QUAD4                                                +
++            641     741     655     578
+WETELMG     5898   QUAD4                                                +
++            640     742     741     641
+WETELMG     5899   QUAD4                                                +
++            584     625     742     640
+WETELMG     5900   QUAD4                                                +
++            743     649     576     656
+WETELMG     5901   QUAD4                                                +
++            744     648     649     743
+WETELMG     5902   QUAD4                                                +
++            626     586     648     744
+WETELMG     5903   QUAD4                                                +
++            745     743     656     657
+WETELMG     5904   QUAD4                                                +
++            746     744     743     745
+WETELMG     5905   QUAD4                                                +
++            627     626     744     746
+WETELMG     5906   QUAD4                                                +
++            643     745     657     573
+WETELMG     5907   QUAD4                                                +
++            642     746     745     643
+WETELMG     5908   QUAD4                                                +
++            579     627     746     642
+WETELMG     5909   QUAD4                                                +
++            747     651     577     658
+WETELMG     5910   QUAD4                                                +
++            748     650     651     747
+WETELMG     5911   QUAD4                                                +
++            628     583     650     748
+WETELMG     5912   QUAD4                                                +
++            749     747     658     659
+WETELMG     5913   QUAD4                                                +
++            750     748     747     749
+WETELMG     5914   QUAD4                                                +
++            629     628     748     750
+WETELMG     5915   QUAD4                                                +
++            649     749     659     576
+WETELMG     5916   QUAD4                                                +
++            648     750     749     649
+WETELMG     5917   QUAD4                                                +
++            586     629     750     648
+WETELMG     5918   QUAD4                                                +
++            577     574     703     702
+WETELMG     5919   QUAD4                                                +
++            658     577     702     752
+WETELMG     5920   QUAD4                                                +
++            659     658     752     754
+WETELMG     5921   QUAD4                                                +
++            576     659     754     708
+WETELMG     5922   QUAD4                                                +
++            656     576     708     756
+WETELMG     5923   QUAD4                                                +
++            657     656     756     758
+WETELMG     5924   QUAD4                                                +
++            573     657     758     712
+WETELMG     5925   QUAD4                                                +
++            654     573     712     760
+WETELMG     5926   QUAD4                                                +
++            655     654     760     762
+WETELMG     5927   QUAD4                                                +
++            578     655     762     716
+WETELMG     5928   QUAD4                                                +
++            652     578     716     764
+WETELMG     5929   QUAD4                                                +
++            653     652     764     766
+WETELMG     5930   QUAD4                                                +
++            572     653     766     720
+WETELMG     5931   QUAD4                                                +
++            571     572     720     722
+WETELMG     5932   QUAD4                                                +
++            574     582     637     703
+WETELMG     5933   QUAD4                                                +
++            575     571     722     634
+WETELMG     5934   QUAD4                                                +
++            692     581     580     631
+WETELMG     5935   QUAD4                                                +
++            691     692     631     630
+WETELMG     5936   QUAD4                                                +
++            574     691     630     582
+WETELMG     5937   QUAD4                                                +
++            651     691     574     577
+WETELMG     5938   QUAD4                                                +
++            650     692     691     651
+WETELMG     5939   QUAD4                                                +
++            583     581     692     650
+WETSURF        1    back                                                +
++           5764    5765    5766    5767    5768    5769    5770    5771+
++           5772    5773    5774    5775    5776    5777    5778    5779+
++           5780    5781    5782    5783    5784    5785    5786    5787+
++           5788    5789    5790    5791    5792    5793    5794    5795+
++           5796    5797    5798    5799    5800    5801    5802    5803+
++           5804    5805    5862    5863    5864    5865    5866    5867+
++           5868    5869    5870    5871    5872    5873    5874    5875+
+WETSURF        2    left                                                +
++           5876    5877    5878    5879    5880    5881    5882    5883+
++           5884    5885    5886    5887    5888    5889    5890    5891+
++           5892    5893    5894    5895    5896    5897    5898    5899+
++           5900    5901    5902    5903    5904    5905    5906    5907+
++           5908    5909    5910    5911    5912    5913    5914    5915+
++           5916    5917    5918    5919    5920    5921    5922    5923+
++           5924    5925    5926    5927    5928    5929    5930    5931+
++           5932    5933    5934    5935    5936    5937    5938    5939+
+WETSURF        3  bottom                                                +
++           5540    5541    5542    5543    5544    5545    5546    5547+
++           5548    5549    5550    5551    5552    5553    5554    5555+
++           5556    5557    5558    5559    5560    5561    5562    5563+
++           5564    5565    5566    5567    5568    5569    5570    5571+
++           5572    5573    5574    5575    5576    5577    5578    5579+
++           5580    5581    5582    5583    5584    5585    5586    5587+
++           5588    5589    5590    5591    5592    5593    5594    5595+
++           5596    5597    5598    5599    5600    5601    5602    5603+
++           5604    5605    5606    5607    5608    5609    5610    5611+
++           5612    5613    5614    5615    5616    5617    5618    5619+
++           5620    5621    5622    5623    5624    5625    5626    5627+
++           5628    5629    5630    5631    5632    5633    5634    5635+
++           5636    5637    5638    5639    5640    5641    5642    5643+
++           5644    5645    5646    5647    5648    5649    5650    5651+
++           5652    5653    5654    5655    5656    5657    5658    5659+
++           5660    5661    5662    5663    5664    5665    5666    5667+
++           5668    5669    5670    5671    5672    5673    5674    5675+
++           5676    5677    5678    5679    5680    5681    5682    5683+
++           5684    5685    5686    5687    5688    5689    5690    5691+
++           5692    5693    5694    5695    5696    5697    5698    5699+
++           5700    5701    5702    5703    5704    5705    5706    5707+
++           5708    5709    5710    5711    5712    5713    5714    5715+
++           5716    5717    5718    5719    5720    5721    5722    5723+
++           5724    5725    5726    5727    5728    5729    5730    5731+
++           5732    5733    5734    5735    5736    5737    5738    5739+
++           5740    5741    5742    5743    5744    5745    5746    5747+
++           5748    5749    5750    5751    5752    5753    5754    5755+
++           5756    5757    5758    5759    5760    5761    5762    5763+
+WETSURF        4   front                                                +
++           5806    5807    5808    5809    5810    5811    5812    5813+
++           5814    5815    5816    5817    5818    5819    5820    5821+
++           5822    5823    5824    5825    5826    5827    5828    5829+
++           5830    5831    5832    5833    5834    5835    5836    5837+
++           5838    5839    5840    5841    5842    5843    5844    5845+
++           5846    5847    5848    5849    5850    5851    5852    5853+
++           5854    5855    5856    5857    5858    5859    5860    5861+
+
+WETSURF        5   right                                                +
+
